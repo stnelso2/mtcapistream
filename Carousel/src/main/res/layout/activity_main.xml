@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <!--<fragment
+         android:id="@+id/frag"
+         android:name="edu.byu.mtc.carousel.fragments.InformativeUpdateFragment"
+         margin-top
+         android:layout_height="25%"
+         android:layout_width="25%"
+         tools:layout="@layout/fragment_informative_update"/>-->
+</RelativeLayout>
